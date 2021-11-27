@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEAM.back", "BEAM.back\BEAM.back.csproj", "{63EF22B7-455E-4ADD-94D3-2EB859A3A29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEAM.back.test", "BEAM.back.test\BEAM.back.test.csproj", "{505D6241-7B4F-4F42-AEB9-935049DE2437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EF22B7-455E-4ADD-94D3-2EB859A3A29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EF22B7-455E-4ADD-94D3-2EB859A3A29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EF22B7-455E-4ADD-94D3-2EB859A3A29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EF22B7-455E-4ADD-94D3-2EB859A3A29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505D6241-7B4F-4F42-AEB9-935049DE2437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505D6241-7B4F-4F42-AEB9-935049DE2437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505D6241-7B4F-4F42-AEB9-935049DE2437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505D6241-7B4F-4F42-AEB9-935049DE2437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE74D8E-F4A3-4DED-A8E3-0492BACAB382}
+	EndGlobalSection
+EndGlobal
